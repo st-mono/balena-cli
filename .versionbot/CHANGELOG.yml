@@ -1,4 +1,23 @@
 - commits:
+    - subject: 'devices supported: Rename ''BETA'' to ''NEW'' in verbose output'
+      hash: f7eab6d0bb505186e7fa3afdc0db84b4e528c3a5
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+    - subject: 'os download: Improve warning message re default balenaOS version'
+      hash: 41f693724c290f96c67484e86e758593cc04784a
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+      nested: []
+  version: 12.9.1
+  date: 2020-07-16T10:33:07.597Z
+- commits:
     - subject: Update INSTALL.md re new minimum Node.js version of 10.20.0
       hash: 0534ab1cb48985f563de12a5c845921ac7fe78ce
       body: ''
