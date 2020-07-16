@@ -1,4 +1,16 @@
 - commits:
+    - subject: >-
+        Update net-keepalive to v1.3.3, reclaiming ~200MB disk space (npm
+        install)
+      hash: 896cb3f56c6e7d1ae709afcffcfae011a0707273
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Paulo Castro
+  version: 12.9.2
+  date: 2020-07-16T19:05:35.393Z
+- commits:
     - subject: 'Convert `os initialize` to oclif, typescript'
       hash: b7c74598b2efec263679bc351cf39284555c3f90
       body: ''
