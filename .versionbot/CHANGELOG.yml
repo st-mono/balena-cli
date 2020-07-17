@@ -1,4 +1,15 @@
 - commits:
+    - subject: 'device rm: Add ability to remove multiple devices in one command'
+      hash: ca60293a9a6f05a727c02cb41b28f2b6474b0f6a
+      body: ''
+      footer:
+        Change-type: minor
+        change-type: minor
+      author: Nick Neisen
+      nested: []
+  version: 12.10.0
+  date: 2020-07-17T12:15:30.281Z
+- commits:
     - subject: 'Convert `os initialize` to oclif, typescript'
       hash: b7c74598b2efec263679bc351cf39284555c3f90
       body: ''
