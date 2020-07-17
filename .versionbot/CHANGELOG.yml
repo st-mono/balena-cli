@@ -1,4 +1,17 @@
 - commits:
+    - subject: 'Convert `os build-config` to oclif, typescript'
+      hash: 85a0080245a9ffe76f0168f226feaf154505f639
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Scott Lowe <scott@balena.io>
+        signed-off-by: Scott Lowe <scott@balena.io>
+      author: Scott Lowe
+      nested: []
+  version: 12.9.2
+  date: 2020-07-17T10:11:18.193Z
+- commits:
     - subject: 'Convert `os initialize` to oclif, typescript'
       hash: b7c74598b2efec263679bc351cf39284555c3f90
       body: ''
